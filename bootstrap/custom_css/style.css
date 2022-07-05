@@ -1,0 +1,55 @@
+html{
+	scroll-behavior: smooth;
+}
+.bg-black{
+	background-color: black;
+}
+.btn-main-color{
+	border:1px solid #1de9b6;
+	background-color:#1de9b6;
+}
+.card,.footer,.about{
+background-color: #212121;
+}
+.bg-main-color{
+	background-color:#1de9b6;
+}
+.text-main-color,span{
+	color:#1de9b6;
+}
+.bg-main-progress{
+	background-color:#00695c;
+}
+.back-to-top{
+	float: right;
+	position:unset;
+	background-color: #1de9b6;
+}
+.navbar{
+	position: fixed;
+	width: 100%;
+}
+.card{
+	position: unset;
+}
+.button-group-sm{
+	padding:0px 5px; 
+	
+}
+.navbar-nav{
+	flex-direction: row;
+}
+.navbar{
+flex-wrap: nowrap;
+padding:10px;
+}
+.nav-link{
+	padding:3px 0px;
+}
+.vertical{
+	height:100%;
+	background-color: transparent;
+}
+.back{
+	background-size:cover;
+}
