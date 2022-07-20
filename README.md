@@ -1,6 +1,6 @@
 # My personal blog
 click to view the live site:
-https://saravZeke.github.io/
+https://saravCruz.github.io/
 
 
 Technologies used : 
